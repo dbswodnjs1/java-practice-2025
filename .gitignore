@@ -119,7 +119,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#아래 두줄도 추가 한다
 .classpath
 .project
 
