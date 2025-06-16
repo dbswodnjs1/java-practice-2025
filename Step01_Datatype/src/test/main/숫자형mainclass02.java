@@ -5,7 +5,7 @@ package test.main;
  * 
  * */
 
-public class mainclass02 {
+public class 숫자형mainclass02 {
 	public static void main(String[] args) {
 		//1. 콘솔창에 "main 메소드가 시작 되었습니다."를 출력 해보세요.
 		System.out.println("main 메소드가 시작 되었습니다.");

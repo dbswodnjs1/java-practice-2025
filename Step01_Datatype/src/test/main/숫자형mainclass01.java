@@ -1,6 +1,6 @@
 package test.main;
 
-Font-Size 14
+
 /*
  *  [ Java 기본 데이터 type ]
  *  
@@ -18,7 +18,7 @@ Font-Size 14
  *  - float 변수명; // 1.40129846432481707e-45 ~ 3.40282346638528860e+38
  *  - double 변수명; //4.94065645841246544e-324d ~ 1.79769313486231570e+308d
  */
-public class mainclass01 {
+public class 숫자형mainclass01 {
 	// run 했을 때 실행의 흐름이 시작되는 특별한 메소드
 	public static void main(String[] args) {
 		//정수형 변수 선언하고 값 대입

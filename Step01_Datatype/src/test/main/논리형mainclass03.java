@@ -11,7 +11,7 @@ package test.main;
  * 
  * 
  */
-public class mainclass03 {
+public class 논리형mainclass03 {
 	public static void main(String[] args) {
 		//논리형 변수 선언과 동시에 값 대입
 		boolean isRun=true;
