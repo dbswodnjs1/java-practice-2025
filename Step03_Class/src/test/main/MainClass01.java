@@ -39,7 +39,7 @@ public class MainClass01 {
 		// 만들어내는 기능을 가지고 있는 객체가 필요하다
 		Scanner scan = new Scanner(System.in); 
 		String line = scan.nextLine();
-
+		
 		System.out.println("main 메소드가 종료 됩니다.");
 	}
 }
