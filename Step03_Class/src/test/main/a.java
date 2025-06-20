@@ -5,7 +5,7 @@ import test.mypack.PostDto;
 public class a {
 	public static void main(String[] args) {
 		//객체 생성에서 default 생성자에 실행의 흐름이 들어오는지 확인 하기
-				
+				 
 				
 				PostDto dto = new PostDto();
 				
