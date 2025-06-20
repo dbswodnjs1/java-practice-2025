@@ -18,7 +18,7 @@ public class MainClass09 {
 		
 		//2. 위에서 생성한 객체(MemberInfo)의 printData()메소드를 호출해 보세요
 		
-		mem2.printData();
+		
 		
 	}
 
