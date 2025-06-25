@@ -9,7 +9,7 @@ package test.main;
  * 
  * 
  */
-public class 문자형mainclass05 {
+public class MainClass05 {
 	public static void main(String[] args) {
 		//"김구라" 라는 String type 객체를 heap 영역(사물함)에 만들고 그 참조값을 변수에 담기
 		String name = "김구라";

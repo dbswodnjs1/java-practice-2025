@@ -1,6 +1,6 @@
 package test.main;
 
-public class 문자형mainclass06 {
+public class MainClass06 {
 	public static void main(String[] args) {
 		// string type 의 기능(메소드) 사용해 보기
 

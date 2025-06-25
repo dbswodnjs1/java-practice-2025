@@ -9,7 +9,7 @@ package test.main;
  * 
  * 
  */
-public class 문자형mainclass04 {
+public class MainClass04 {
 	public static void main(String[] args) {
 		//char 형 변수 선언과 동시에 값 대입하기
 		char ch1='a';

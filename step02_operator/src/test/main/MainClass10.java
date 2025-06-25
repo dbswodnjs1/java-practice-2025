@@ -5,7 +5,7 @@ package test.main;
  * 
  * 
  */
-public class mainclass10 {
+public class MainClass10 {
 	public static void main(String[] args) {
 		boolean isWait=false;
 		//isWait 의 true 면 "기다려요" 대입되고 false 면 "기다리지 않아요" 가 대입된다.

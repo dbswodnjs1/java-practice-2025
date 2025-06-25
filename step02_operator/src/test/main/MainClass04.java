@@ -6,7 +6,7 @@ package test.main;
  * 
  * 
  */
-public class mainclass04 {
+public class MainClass04 {
 	public static void main(String[] args) {
 		// 같으지 비교하는 연산자 ==
 		boolean result1 = 10 == 10; // true

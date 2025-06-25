@@ -1,6 +1,6 @@
 package test.main;
 
-public class mainclass02 {
+public class MainClass02 {
 	public static void main(String[] args) {
 		int num=0;
 		num++;

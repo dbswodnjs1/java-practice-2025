@@ -5,7 +5,7 @@ package test.main;
  * 
  */
 
-public class mainclass07 {
+public class MainClass07 {
 	public static void main(String[] args) {
 		int num = 10;
 		//num = num+2 //아래는 이코드의 줄인 표현

@@ -1,6 +1,6 @@
 package test.main;
 
-public class mainclass03 {
+public class MainClass03 {
 	public static void main(String[] args) {
 		/*
 		 * i라는 변수를 만들고 초기값 0 대입

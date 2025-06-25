@@ -18,7 +18,7 @@ package test.main;
  *  - float 변수명; // 1.40129846432481707e-45 ~ 3.40282346638528860e+38
  *  - double 변수명; //4.94065645841246544e-324d ~ 1.79769313486231570e+308d
  */
-public class 숫자형mainclass01 {
+public class MainClass01 {
 	// run 했을 때 실행의 흐름이 시작되는 특별한 메소드
 	public static void main(String[] args) {
 		//정수형 변수 선언하고 값 대입
@@ -30,7 +30,7 @@ public class 숫자형mainclass01 {
 		//실수형 변수 선언하고 값 대입
 		float num1=10.1f;
 		double num2=10.2d;
-		double num1=10.33; //d,f 를 붙이지 않으면 double type 으로 간주한다.
+		double num3=10.33; //d,f 를 붙이지 않으면 double type 으로 간주한다.
 
 		//상수를 만들 때는 final 이라는 예약어를 추가로 붙여준다.
 		final int num=10;
