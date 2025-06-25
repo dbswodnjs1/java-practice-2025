@@ -8,8 +8,7 @@ public class MainClass05 {
 		// Messenger type 객체의 sendPost() 메소드를 호출해 보세요.
 		// 실행했을 때 Exception 이 발생하지 않아야 한다.
 		
-		//
-
+	
 		Messenger mes = new Messenger();
 		
 		Post p1 = new Post(2, "제목2", "작성자2");
@@ -19,6 +18,5 @@ public class MainClass05 {
 
 	}
 
-	
-	
+		
 }
