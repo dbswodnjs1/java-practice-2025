@@ -28,7 +28,7 @@ public class Mainclass06 {
 		 * 
 		 */
 		
-		new Weapon() {
+		new Weapon() {//익명 클래스로 생성한 Weapon타입의 참조값
 			
 			@Override
 			public void attack() {
@@ -37,7 +37,7 @@ public class Mainclass06 {
 				
 			}
 			
-		}.attack();
+		}.attack(); //참조값을 변수에 담지 않고 바로 사용 할수도 있다
 		
 
 	}
