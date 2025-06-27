@@ -17,10 +17,11 @@ public class MainClass08 {
 		 */
 		
 		//부서객체 생성
-		Department d1 = new Department("교육부", "역삼동");
-		Employee emp1 = new Employee("김구라", 1000, d1);
+		Department d1 = new Department("김구라","교육부");
+		Employee emp1 = new Employee("역삼동", 1000, d1);
 		
 		emp1.printInfo();
+				
 					
 		/*
 		 * 위에서 생성한 부서와 동일한 부서에서 근무하는 사원(Employee) 객체를 하나더 생성해 보세요
